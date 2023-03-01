@@ -6,9 +6,9 @@ A programming student, who likes games a lot, decided to create some games using
 
 ## Steps
 
-[] - Printing board.
-[] - Place piece in the board.
-[] - Can play game with another player.
-[] - Can play game with computer.
-[] - Can save game state.
-[] - Can load game state.
+- [x] Printing board.
+- [ ] Place piece in the board.
+- [ ] Can play game with another player.
+- [ ] Can play game with computer.
+- [ ] Can save game state.
+- [ ] Can load game state.
